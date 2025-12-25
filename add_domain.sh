@@ -1,0 +1,1 @@
+python3 main.py InsertOneDomain $1 1000 ""
